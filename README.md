@@ -8,4 +8,7 @@ This is a neat file.
 I'm making a website. Isn't that cool?
 
 ## WEBSITE CONTENTS
+
+Here are the files that make up the website.
+
 index.html
